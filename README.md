@@ -1,2 +1,2 @@
-# git_first_repo
-Creating my first repository on 21st June 2023.
+# ROS2 HUMBLE BEGINNER 
+Creating my first repository for fun and interesting ROS2 learnings! 
