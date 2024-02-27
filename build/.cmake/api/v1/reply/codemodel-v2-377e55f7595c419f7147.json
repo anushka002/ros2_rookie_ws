@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5b482c828f78acab3c52.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "my_cpp_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "add_two_ints_client_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-add_two_ints_client_exe-Debug-5603dcbd8c2ed07ece70.json",
+					"name" : "add_two_ints_client_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "add_two_ints_client_no_oop_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-add_two_ints_client_no_oop_exe-Debug-47e5ad08826d26da5b43.json",
+					"name" : "add_two_ints_client_no_oop_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "add_two_ints_server_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-add_two_ints_server_exe-Debug-1b9819bf92814dec6095.json",
+					"name" : "add_two_ints_server_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_node_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_node_c-Debug-590550c4590243e5a566.json",
+					"name" : "cpp_node_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_node_c2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_node_c2-Debug-4f2ac181fab0f1e8c026.json",
+					"name" : "cpp_node_c2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hardware_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hardware_exe-Debug-6e1e427168d21be9097b.json",
+					"name" : "hardware_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_cpp_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_cpp_pkg_uninstall-Debug-c29f49d02d81f157924a.json",
+					"name" : "my_cpp_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "number_counter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-number_counter-Debug-03562bf13373f7c5c4ad.json",
+					"name" : "number_counter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "number_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-number_publisher-Debug-92aefa4ff1688f313102.json",
+					"name" : "number_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_news_station_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_news_station_exe-Debug-71bdc8cf38566d53570a.json",
+					"name" : "robot_news_station_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smartphone_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smartphone_exe-Debug-ca8736ea7967f1737456.json",
+					"name" : "smartphone_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timer_node_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer_node_1-Debug-d7f091664cb04eb78ea4.json",
+					"name" : "timer_node_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-6daccc70776f39ab48fd.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anushka/ros2_ws/build",
+		"source" : "/home/anushka/ros2_ws/src/my_cpp_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
