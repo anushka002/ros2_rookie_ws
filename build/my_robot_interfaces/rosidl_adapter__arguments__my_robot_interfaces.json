@@ -1,0 +1,10 @@
+{
+  "package_name": "my_robot_interfaces",
+  "non_idl_tuples": [
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:msg/HardwareStatus.msg",
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:msg/LedStates.msg",
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:msg/LedStateArray.msg",
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:srv/ComputeRectangleArea.srv",
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:srv/SetLed.srv"
+  ]
+}
