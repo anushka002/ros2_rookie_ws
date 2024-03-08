@@ -1,0 +1,41 @@
+[1.769s] Invoking command in '/home/anushka/ros2_ws/src/turtlesim_catch_them_all': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build install --record /home/anushka/ros2_ws/build/turtlesim_catch_them_all/install.log --single-version-externally-managed
+[2.088s] running egg_info
+[2.089s] creating ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info
+[2.089s] writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[2.090s] writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[2.090s] writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[2.090s] writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[2.090s] writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[2.091s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[2.092s] reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[2.094s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[2.094s] running build
+[2.094s] running build_py
+[2.094s] creating /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build
+[2.094s] creating /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib
+[2.094s] creating /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[2.095s] copying turtlesim_catch_them_all/__init__.py -> /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[2.095s] copying turtlesim_catch_them_all/turtle_controller.py -> /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[2.095s] copying turtlesim_catch_them_all/turtle_spawner.py -> /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[2.095s] running install
+[2.095s] running install_lib
+[2.096s] creating /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[2.096s] copying /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/__init__.py -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[2.097s] copying /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_controller.py -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[2.097s] copying /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_spawner.py -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[2.097s] byte-compiling /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/__init__.py to __init__.cpython-310.pyc
+[2.098s] byte-compiling /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_controller.py to turtle_controller.cpython-310.pyc
+[2.099s] byte-compiling /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+[2.100s] running install_data
+[2.101s] creating /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/ament_index
+[2.101s] creating /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index
+[2.101s] creating /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[2.101s] copying resource/turtlesim_catch_them_all -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[2.101s] copying package.xml -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[2.101s] running install_egg_info
+[2.104s] Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info
+[2.105s] running install_scripts
+[2.132s] Installing turtle_spawner script to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[2.133s] Installing turtlesim_controller script to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[2.133s] writing list of installed files to '/home/anushka/ros2_ws/build/turtlesim_catch_them_all/install.log'
+[2.176s] Invoked command in '/home/anushka/ros2_ws/src/turtlesim_catch_them_all' returned '0': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build install --record /home/anushka/ros2_ws/build/turtlesim_catch_them_all/install.log --single-version-externally-managed

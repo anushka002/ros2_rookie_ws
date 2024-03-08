@@ -1,0 +1,77 @@
+[1.917s] Invoking command in '/home/anushka/ros2_ws/src/my_py_pkg': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/build/my_py_pkg/prefix_override:/home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/anushka/ros2_ws/build/my_py_pkg/build install --record /home/anushka/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
+[2.238s] running egg_info
+[2.239s] creating ../../build/my_py_pkg/my_py_pkg.egg-info
+[2.239s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[2.240s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[2.240s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[2.240s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[2.240s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[2.241s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.243s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.244s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.244s] running build
+[2.244s] running build_py
+[2.245s] creating /home/anushka/ros2_ws/build/my_py_pkg/build
+[2.245s] creating /home/anushka/ros2_ws/build/my_py_pkg/build/lib
+[2.245s] creating /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.245s] copying my_py_pkg/add_two_ints_oop.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.245s] copying my_py_pkg/__init__.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.245s] copying my_py_pkg/led_status_server.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.245s] copying my_py_pkg/my_firrst_node.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.245s] copying my_py_pkg/robot_news_station_u.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.245s] copying my_py_pkg/add_two_ints_client.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.245s] copying my_py_pkg/battery_client.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.246s] copying my_py_pkg/hardware_msg_test.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.246s] copying my_py_pkg/mobile_u.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.246s] copying my_py_pkg/number_counter_code.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.246s] copying my_py_pkg/my_add_service.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.246s] copying my_py_pkg/number_publisher_code.py -> /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.247s] running install
+[2.247s] running install_lib
+[2.248s] creating /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.248s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_oop.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.248s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.249s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/led_status_server.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.249s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/my_firrst_node.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.249s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/robot_news_station_u.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.249s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_client.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.249s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/battery_client.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.249s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/hardware_msg_test.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.250s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/mobile_u.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.250s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_counter_code.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.250s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/my_add_service.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.250s] copying /home/anushka/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_publisher_code.py -> /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.251s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_oop.py to add_two_ints_oop.cpython-310.pyc
+[2.252s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[2.252s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/led_status_server.py to led_status_server.cpython-310.pyc
+[2.253s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_firrst_node.py to my_firrst_node.cpython-310.pyc
+[2.253s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_news_station_u.py to robot_news_station_u.cpython-310.pyc
+[2.254s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_client.py to add_two_ints_client.cpython-310.pyc
+[2.254s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/battery_client.py to battery_client.cpython-310.pyc
+[2.255s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/hardware_msg_test.py to hardware_msg_test.cpython-310.pyc
+[2.255s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/mobile_u.py to mobile_u.cpython-310.pyc
+[2.256s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_counter_code.py to number_counter_code.cpython-310.pyc
+[2.256s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_add_service.py to my_add_service.cpython-310.pyc
+[2.256s] byte-compiling /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_publisher_code.py to number_publisher_code.cpython-310.pyc
+[2.257s] running install_data
+[2.258s] creating /home/anushka/ros2_ws/install/my_py_pkg/share/ament_index
+[2.258s] creating /home/anushka/ros2_ws/install/my_py_pkg/share/ament_index/resource_index
+[2.258s] creating /home/anushka/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[2.258s] copying resource/my_py_pkg -> /home/anushka/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[2.258s] copying package.xml -> /home/anushka/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[2.259s] running install_egg_info
+[2.261s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[2.262s] running install_scripts
+[2.288s] Installing add_two_ints_client script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.288s] Installing add_two_ints_oop_client script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.288s] Installing battery_client_exe script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.288s] Installing hardware_exe script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.288s] Installing led_status_server script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.288s] Installing mobilephone script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.289s] Installing my_add_service script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.289s] Installing number_counter script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.289s] Installing number_publisher script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.289s] Installing py_node_p script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.289s] Installing robot_news_station script to /home/anushka/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.289s] writing list of installed files to '/home/anushka/ros2_ws/build/my_py_pkg/install.log'
+[2.385s] Invoked command in '/home/anushka/ros2_ws/src/my_py_pkg' returned '0': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/build/my_py_pkg/prefix_override:/home/anushka/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/anushka/ros2_ws/build/my_py_pkg/build install --record /home/anushka/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed

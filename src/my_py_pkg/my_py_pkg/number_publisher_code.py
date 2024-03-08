@@ -7,9 +7,10 @@ from example_interfaces.msg import Int64
 class NumPublishNode(Node):
     def __init__(self):
         super().__init__("number_publisher")
-        self.get_logger().info("Number Publisher has been started!")
+        self.name_= self.declare_parameter("name", "Anushka")
+        self.get_logger().info(f"Number Publisher has been started! {self.name_.value}")
 
-        self.declare_parameter("number_to_publish", 2)        
+        self.declare_parameter("number_to_publish", 2)   
         self.num_ = self.get_parameter("number_to_publish").value 
         
         self.declare_parameter("frequency", 1.0)        

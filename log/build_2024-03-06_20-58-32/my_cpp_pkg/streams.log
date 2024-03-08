@@ -1,0 +1,42 @@
+[0.472s] Invoking command in '/home/anushka/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/ros2_ws/install/my_robot_bringup:/home/anushka/ros2_ws/install/my_cpp_pkg:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/vid_interface:/home/anushka/ros2_ws/install/turtlesim_catch_them_all:/home/anushka/ros2_ws/install/my_py_pkg:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/home/anushka/eric_ws/install/camera_pkg_p:/opt/ros/humble /usr/bin/cmake --build /home/anushka/ros2_ws/build/my_cpp_pkg -- -j8 -l8
+[0.960s] [ 18%] Built target cpp_node_c2
+[0.960s] [ 18%] Built target robot_news_station_exe
+[0.960s] [ 27%] Built target cpp_node_c
+[0.961s] [ 40%] Built target smartphone_exe
+[0.961s] [ 50%] Built target number_publisher
+[0.961s] [ 54%] Built target timer_node_1
+[0.961s] [ 63%] Built target add_two_ints_server_exe
+[0.961s] [ 72%] Built target number_counter
+[0.961s] [100%] Built target add_two_ints_client_no_oop_exe
+[0.961s] [100%] Built target hardware_exe
+[0.961s] [100%] Built target add_two_ints_client_exe
+[1.432s] Invoked command in '/home/anushka/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/ros2_ws/install/my_robot_bringup:/home/anushka/ros2_ws/install/my_cpp_pkg:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/vid_interface:/home/anushka/ros2_ws/install/turtlesim_catch_them_all:/home/anushka/ros2_ws/install/my_py_pkg:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/home/anushka/eric_ws/install/camera_pkg_p:/opt/ros/humble /usr/bin/cmake --build /home/anushka/ros2_ws/build/my_cpp_pkg -- -j8 -l8
+[1.508s] Invoking command in '/home/anushka/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/ros2_ws/install/my_robot_bringup:/home/anushka/ros2_ws/install/my_cpp_pkg:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/vid_interface:/home/anushka/ros2_ws/install/turtlesim_catch_them_all:/home/anushka/ros2_ws/install/my_py_pkg:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/home/anushka/eric_ws/install/camera_pkg_p:/opt/ros/humble /usr/bin/cmake --install /home/anushka/ros2_ws/build/my_cpp_pkg
+[1.518s] -- Install configuration: ""
+[1.518s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node_c
+[1.518s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node_c2
+[1.519s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/timer_node_1
+[1.519s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/robot_news_station_exe
+[1.519s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/smartphone_exe
+[1.520s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/number_publisher
+[1.520s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/number_counter
+[1.520s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_server_exe
+[1.521s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_client_no_oop_exe
+[1.522s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_client_exe
+[1.522s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/hardware_exe
+[1.522s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[1.522s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[1.522s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[1.522s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[1.523s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[1.523s] -- Up-to-date: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[1.525s] Invoked command in '/home/anushka/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/ros2_ws/install/my_robot_bringup:/home/anushka/ros2_ws/install/my_cpp_pkg:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/vid_interface:/home/anushka/ros2_ws/install/turtlesim_catch_them_all:/home/anushka/ros2_ws/install/my_py_pkg:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/home/anushka/eric_ws/install/camera_pkg_p:/opt/ros/humble /usr/bin/cmake --install /home/anushka/ros2_ws/build/my_cpp_pkg

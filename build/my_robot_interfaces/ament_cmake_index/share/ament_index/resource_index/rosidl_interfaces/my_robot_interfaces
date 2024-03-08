@@ -4,6 +4,14 @@ msg/LedStateArray.idl
 msg/LedStateArray.msg
 msg/LedStates.idl
 msg/LedStates.msg
+msg/Turtle.idl
+msg/Turtle.msg
+msg/TurtleArray.idl
+msg/TurtleArray.msg
+srv/CatchTurtle.idl
+srv/CatchTurtle.srv
+srv/CatchTurtle_Request.msg
+srv/CatchTurtle_Response.msg
 srv/ComputeRectangleArea.idl
 srv/ComputeRectangleArea.srv
 srv/ComputeRectangleArea_Request.msg

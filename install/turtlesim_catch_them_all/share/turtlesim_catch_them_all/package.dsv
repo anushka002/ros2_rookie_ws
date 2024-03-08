@@ -1,0 +1,6 @@
+source;share/turtlesim_catch_them_all/hook/pythonpath.ps1
+source;share/turtlesim_catch_them_all/hook/pythonpath.dsv
+source;share/turtlesim_catch_them_all/hook/pythonpath.sh
+source;share/turtlesim_catch_them_all/hook/ament_prefix_path.ps1
+source;share/turtlesim_catch_them_all/hook/ament_prefix_path.dsv
+source;share/turtlesim_catch_them_all/hook/ament_prefix_path.sh

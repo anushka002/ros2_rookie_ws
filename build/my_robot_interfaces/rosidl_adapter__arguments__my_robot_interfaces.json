@@ -5,6 +5,9 @@
     "/home/anushka/ros2_ws/src/my_robot_interfaces:msg/LedStates.msg",
     "/home/anushka/ros2_ws/src/my_robot_interfaces:msg/LedStateArray.msg",
     "/home/anushka/ros2_ws/src/my_robot_interfaces:srv/ComputeRectangleArea.srv",
-    "/home/anushka/ros2_ws/src/my_robot_interfaces:srv/SetLed.srv"
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:srv/SetLed.srv",
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:msg/Turtle.msg",
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:msg/TurtleArray.msg",
+    "/home/anushka/ros2_ws/src/my_robot_interfaces:srv/CatchTurtle.srv"
   ]
 }

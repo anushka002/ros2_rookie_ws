@@ -1,5 +1,0 @@
-[01m[K/home/anushka/ros2_ws/src/my_cpp_pkg/src/hardware_msg_test.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
-[01m[K/home/anushka/ros2_ws/src/my_cpp_pkg/src/hardware_msg_test.cpp:32:13:[m[K [01;35m[Kwarning: [m[Kstatement is a reference, not call, to function ‘[01m[Krclcpp::shutdown[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Waddress-Waddress]8;;[m[K]
-   32 |     [01;35m[Krclcpp::shutdown[m[K;
-      |     [01;35m[K~~~~~~~~^~~~~~~~[m[K
-[01m[K/home/anushka/ros2_ws/src/my_cpp_pkg/src/hardware_msg_test.cpp:32:13:[m[K [01;35m[Kwarning: [m[Kstatement has no effect [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-value-Wunused-value]8;;[m[K]

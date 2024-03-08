@@ -1,1 +1,1 @@
-my_cpp_pkg:my_py_pkg
+my_cpp_pkg:my_py_pkg:turtlesim:turtlesim_catch_them_all

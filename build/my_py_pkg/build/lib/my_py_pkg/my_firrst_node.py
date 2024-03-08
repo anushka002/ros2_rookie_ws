@@ -5,9 +5,9 @@ from rclpy.node import Node
 class MyNode(Node):
 
     def __init__(self):
-        super().__init__("py_test_p")
+        super().__init__("anu")
         self.counter_ = 0
-        self.get_logger().info("Hello everyone! ROS2 here......")
+        self.get_logger().info("Hello everyone ! I am ANUSHKAA......")
         self.create_timer(0.5, self.timer_callback_func)
 
     def timer_callback_func(self):

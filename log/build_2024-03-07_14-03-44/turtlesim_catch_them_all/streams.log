@@ -1,0 +1,22 @@
+[1.767s] Invoking command in '/home/anushka/ros2_ws/src/turtlesim_catch_them_all': CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/ros2_ws/install/my_robot_bringup:/home/anushka/ros2_ws/install/my_cpp_pkg:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/vid_interface PYTHONPATH=/home/anushka/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build install --record /home/anushka/ros2_ws/build/turtlesim_catch_them_all/install.log --single-version-externally-managed
+[2.137s] running egg_info
+[2.138s] writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[2.139s] writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[2.139s] writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[2.139s] writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[2.139s] writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[2.141s] reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[2.142s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[2.142s] running build
+[2.143s] running build_py
+[2.143s] running install
+[2.143s] running install_lib
+[2.145s] running install_data
+[2.145s] running install_egg_info
+[2.147s] removing '/home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info' (and everything under it)
+[2.148s] Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info
+[2.149s] running install_scripts
+[2.174s] Installing turtle_spawner script to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[2.175s] Installing turtlesim_controller script to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[2.175s] writing list of installed files to '/home/anushka/ros2_ws/build/turtlesim_catch_them_all/install.log'
+[2.248s] Invoked command in '/home/anushka/ros2_ws/src/turtlesim_catch_them_all' returned '0': CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/ros2_ws/install/my_robot_bringup:/home/anushka/ros2_ws/install/my_cpp_pkg:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/vid_interface PYTHONPATH=/home/anushka/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build install --record /home/anushka/ros2_ws/build/turtlesim_catch_them_all/install.log --single-version-externally-managed

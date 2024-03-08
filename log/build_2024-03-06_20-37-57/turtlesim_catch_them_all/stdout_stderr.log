@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info
+writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build
+creating /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib
+creating /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+copying turtlesim_catch_them_all/__init__.py -> /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+copying turtlesim_catch_them_all/turtle_controller.py -> /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+copying turtlesim_catch_them_all/turtle_spawner.py -> /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+running install
+running install_lib
+creating /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+copying /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/__init__.py -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+copying /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_controller.py -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+copying /home/anushka/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_spawner.py -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+byte-compiling /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_controller.py to turtle_controller.cpython-310.pyc
+byte-compiling /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+running install_data
+creating /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/ament_index
+creating /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index
+creating /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+copying resource/turtlesim_catch_them_all -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+copying package.xml -> /home/anushka/ros2_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+running install_egg_info
+Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtle_spawner script to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+Installing turtlesim_controller script to /home/anushka/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+writing list of installed files to '/home/anushka/ros2_ws/build/turtlesim_catch_them_all/install.log'

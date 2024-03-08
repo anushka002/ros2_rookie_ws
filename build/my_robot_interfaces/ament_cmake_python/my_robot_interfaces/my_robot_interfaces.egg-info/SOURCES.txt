@@ -8,6 +8,9 @@ my_robot_interfaces/msg/__init__.py
 my_robot_interfaces/msg/_hardware_status.py
 my_robot_interfaces/msg/_led_state_array.py
 my_robot_interfaces/msg/_led_states.py
+my_robot_interfaces/msg/_turtle.py
+my_robot_interfaces/msg/_turtle_array.py
 my_robot_interfaces/srv/__init__.py
+my_robot_interfaces/srv/_catch_turtle.py
 my_robot_interfaces/srv/_compute_rectangle_area.py
 my_robot_interfaces/srv/_set_led.py

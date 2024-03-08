@@ -1,0 +1,120 @@
+[0.437s] Invoking command in '/home/anushka/ros2_ws/build/my_cpp_pkg': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/eric_ws/install/vid_interface:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/camera_pkg_p:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/anushka/ros2_ws/src/my_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/anushka/ros2_ws/install/my_cpp_pkg
+[0.973s] -- The C compiler identification is GNU 11.4.0
+[0.973s] -- The CXX compiler identification is GNU 11.4.0
+[0.973s] -- Detecting C compiler ABI info
+[0.973s] -- Detecting C compiler ABI info - done
+[0.974s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.974s] -- Detecting C compile features
+[0.974s] -- Detecting C compile features - done
+[0.974s] -- Detecting CXX compiler ABI info
+[0.974s] -- Detecting CXX compiler ABI info - done
+[0.974s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.974s] -- Detecting CXX compile features
+[0.974s] -- Detecting CXX compile features - done
+[0.974s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.067s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.212s] -- Found rclcpp: 16.0.7 (/opt/ros/humble/share/rclcpp/cmake)
+[1.286s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.297s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.311s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.334s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.369s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.479s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.485s] -- Found rmw_fastrtps_cpp: 6.2.5 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.641s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.682s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.747s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.768s] -- Looking for pthread.h
+[1.867s] -- Looking for pthread.h - found
+[1.868s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.961s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.963s] -- Found Threads: TRUE  
+[2.174s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[2.345s] -- Found my_robot_interfaces: 0.0.0 (/home/anushka/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake)
+[2.370s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.500s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.500s] -- Configured cppcheck include dirs: 
+[2.500s] -- Configured cppcheck exclude dirs and/or files: 
+[2.501s] -- Added test 'lint_cmake' to check CMake code style
+[2.503s] -- Added test 'uncrustify' to check C / C++ code style
+[2.503s] -- Configured uncrustify additional arguments: 
+[2.504s] -- Added test 'xmllint' to check XML markup files
+[2.507s] -- Configuring done
+[2.553s] -- Generating done
+[2.557s] -- Build files have been written to: /home/anushka/ros2_ws/build/my_cpp_pkg
+[2.577s] Invoked command in '/home/anushka/ros2_ws/build/my_cpp_pkg' returned '0': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/eric_ws/install/vid_interface:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/camera_pkg_p:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/anushka/ros2_ws/src/my_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/anushka/ros2_ws/install/my_cpp_pkg
+[2.579s] Invoking command in '/home/anushka/ros2_ws/build/my_cpp_pkg': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/eric_ws/install/vid_interface:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/camera_pkg_p:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/anushka/ros2_ws/build/my_cpp_pkg -- -j8 -l8
+[2.646s] [  9%] [32mBuilding CXX object CMakeFiles/robot_news_station_exe.dir/src/robot_news_station_code.cpp.o[0m
+[2.646s] [ 13%] [32mBuilding CXX object CMakeFiles/cpp_node_c.dir/src/my_first_node.cpp.o[0m
+[2.647s] [ 18%] [32mBuilding CXX object CMakeFiles/cpp_node_c2.dir/src/cpp_node.cpp.o[0m
+[2.647s] [ 18%] [32mBuilding CXX object CMakeFiles/timer_node_1.dir/src/my_timer.cpp.o[0m
+[2.649s] [ 22%] [32mBuilding CXX object CMakeFiles/number_publisher.dir/src/number_publisher_code.cpp.o[0m
+[2.654s] [ 27%] [32mBuilding CXX object CMakeFiles/add_two_ints_server_exe.dir/src/add_two_ints_server.cpp.o[0m
+[2.655s] [ 31%] [32mBuilding CXX object CMakeFiles/number_counter.dir/src/number_counter_code.cpp.o[0m
+[2.679s] [ 36%] [32mBuilding CXX object CMakeFiles/smartphone_exe.dir/src/smartphone_code.cpp.o[0m
+[9.364s] [ 40%] [32m[1mLinking CXX executable cpp_node_c[0m
+[9.597s] [ 45%] [32m[1mLinking CXX executable timer_node_1[0m
+[9.670s] [ 45%] Built target cpp_node_c
+[9.722s] [ 50%] [32mBuilding CXX object CMakeFiles/add_two_ints_client_no_oop_exe.dir/src/add_two_ints_client_no_oop.cpp.o[0m
+[9.897s] [ 50%] Built target timer_node_1
+[9.977s] [ 54%] [32mBuilding CXX object CMakeFiles/add_two_ints_client_exe.dir/src/add_two_ints_client.cpp.o[0m
+[10.237s] [ 59%] [32m[1mLinking CXX executable cpp_node_c2[0m
+[10.267s] [ 63%] [32m[1mLinking CXX executable add_two_ints_server_exe[0m
+[10.534s] [ 63%] Built target cpp_node_c2
+[10.581s] [ 68%] [32mBuilding CXX object CMakeFiles/hardware_exe.dir/src/hardware_msg_test.cpp.o[0m
+[10.747s] [ 68%] Built target add_two_ints_server_exe
+[11.067s] [ 72%] [32m[1mLinking CXX executable number_publisher[0m
+[11.256s] [ 77%] [32m[1mLinking CXX executable robot_news_station_exe[0m
+[11.475s] [ 77%] Built target number_publisher
+[11.658s] [ 77%] Built target robot_news_station_exe
+[14.242s] [ 81%] [32m[1mLinking CXX executable add_two_ints_client_no_oop_exe[0m
+[14.329s] [ 86%] [32m[1mLinking CXX executable add_two_ints_client_exe[0m
+[14.544s] [ 86%] Built target add_two_ints_client_no_oop_exe
+[14.615s] [ 86%] Built target add_two_ints_client_exe
+[15.588s] [ 90%] [32m[1mLinking CXX executable hardware_exe[0m
+[15.944s] [ 90%] Built target hardware_exe
+[16.220s] [ 95%] [32m[1mLinking CXX executable smartphone_exe[0m
+[16.760s] [ 95%] Built target smartphone_exe
+[16.776s] [100%] [32m[1mLinking CXX executable number_counter[0m
+[17.336s] [100%] Built target number_counter
+[17.350s] Invoked command in '/home/anushka/ros2_ws/build/my_cpp_pkg' returned '0': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/eric_ws/install/vid_interface:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/camera_pkg_p:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/anushka/ros2_ws/build/my_cpp_pkg -- -j8 -l8
+[17.431s] Invoking command in '/home/anushka/ros2_ws/build/my_cpp_pkg': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/eric_ws/install/vid_interface:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/camera_pkg_p:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/anushka/ros2_ws/build/my_cpp_pkg
+[17.441s] -- Install configuration: ""
+[17.442s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node_c
+[17.442s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node_c" to ""
+[17.442s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node_c2
+[17.443s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node_c2" to ""
+[17.443s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/timer_node_1
+[17.444s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/timer_node_1" to ""
+[17.444s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/robot_news_station_exe
+[17.446s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/robot_news_station_exe" to ""
+[17.446s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/smartphone_exe
+[17.452s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/smartphone_exe" to ""
+[17.452s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/number_publisher
+[17.453s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/number_publisher" to ""
+[17.453s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/number_counter
+[17.459s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/number_counter" to ""
+[17.460s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_server_exe
+[17.461s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_server_exe" to ""
+[17.461s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_client_no_oop_exe
+[17.462s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_client_no_oop_exe" to ""
+[17.462s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_client_exe
+[17.464s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/add_two_ints_client_exe" to ""
+[17.464s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/hardware_exe
+[17.465s] -- Set runtime path of "/home/anushka/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/hardware_exe" to ""
+[17.466s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[17.466s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[17.466s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[17.466s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[17.467s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[17.467s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[17.467s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[17.467s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[17.467s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[17.468s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[17.468s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[17.468s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[17.468s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[17.468s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[17.469s] -- Installing: /home/anushka/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[17.471s] Invoked command in '/home/anushka/ros2_ws/build/my_cpp_pkg' returned '0': AMENT_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces:/home/anushka/eric_ws/install/vid_interface:/home/anushka/voidwalking/ros2_ws/install/void_tests:/home/anushka/voidwalking/ros2_ws/install/turtlebot_test:/home/anushka/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer:/home/anushka/voidwalking/ros2_ws/install/main:/home/anushka/voidwalking/ros2_ws/install/simulation:/home/anushka/voidwalking/ros2_ws/install/rviz_satellite:/home/anushka/voidwalking/ros2_ws/install/obstacle_avoidance:/home/anushka/voidwalking/ros2_ws/install/nav2_turtlebot3:/home/anushka/voidwalking/ros2_ws/install/mapping:/home/anushka/eric_ws/install/camera_pkg_p:/home/anushka/voidwalking/ros2_ws/install/waypoints:/home/anushka/anu_ws/install/servo_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/anushka/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/anushka/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/anushka/ros2_ws/build/my_cpp_pkg
